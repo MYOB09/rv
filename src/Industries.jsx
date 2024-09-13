@@ -29,7 +29,7 @@ function Industries() {
               delay: 2000,
             }),
           ]}
-          className="w-full max-w-sm mb-12"
+          className="w-1/2 sm:w-full max-w-sm mb-12"
         >
           <CarouselContent>
             <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">

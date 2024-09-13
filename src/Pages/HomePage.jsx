@@ -28,8 +28,9 @@ function HomePage() {
   return (
     <>
       <Navbar />
-      <h1 className="m-14 mt-24  text-4xl">
+      <h1 className="m-14 mt-24 text-xl md:text-4xl">
         Use <span className="text-sky-500">Retail</span>Vivo to:
+        <br className="sm:hidden" />
         <span className="font-bold text-yellow-400"> {text}</span>
         <span className="text-red-600">
           <Cursor />
