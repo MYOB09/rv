@@ -1,4 +1,4 @@
-import rvlogo from "./assets/orthogoniallogo.png";
+import rvlogo from "./assets/oragne_orhtologo.png";
 import english from "./assets/englishflag.png";
 import { Button } from "./components/ui/button";
 
