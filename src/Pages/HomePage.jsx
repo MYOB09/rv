@@ -29,7 +29,11 @@ function HomePage() {
     <>
       <Navbar />
       <h1 className="m-14 mt-24 text-xl md:text-4xl">
-        Use Retail<span className="text-yellow-300">Vivo</span> to:
+        Use{" "}
+        <span className="font-bold">
+          Retail<span className="text-yellow-500">Vivo</span>
+        </span>{" "}
+        to:
         <br className="sm:hidden" />
         <span className="font-bold text-yellow-400"> {text}</span>
         <span className="text-red-600">
