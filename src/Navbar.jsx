@@ -1,14 +1,14 @@
-import rvlogo from "./assets/rvlogo.png";
+import rvlogo from "./assets/finallogo.png";
 import english from "./assets/englishflag.png";
 import { Button } from "./components/ui/button";
 
 function Navbar() {
   return (
     <div className="z-[20] sticky top-0 ">
-      <div className="bg-gray-50 items-center flex justify-between w-full h-16">
+      <div className="bg-white items-center flex justify-between w-full h-24">
         <div className="ml-4">
           <a href="#">
-            <img className="h-16 w-16" src={rvlogo} />
+            <img className="h-24 w-24" src={rvlogo} />
           </a>
         </div>
         <div className="inline-flex">

@@ -3,12 +3,12 @@ function Footer() {
     <div>
       <div className=" flex flex-inline justify-center m-4 text-sm sm:text-xl">
         {/* <NavLink className="aria-[current=page]:underline decoration-sky-300  font-semibold hover:cursor-pointer hover:underline "> */}
-        <span className="text-sky-600 hover:cursor-pointer hover:text-sky-300 mx-2">
+        <span className="text-yellow-300 hover:cursor-pointer hover:text-yellow-600 mx-2">
           Terms and Conditions
         </span>
         {/* </NavLink> */}
         {/* <NavLink className="aria-[current=page]:underline decoration-sky-300  font-semibold hover:cursor-pointer hover:underline "> */}
-        <span className="text-sky-600 hover:cursor-pointer hover:text-sky-300 mx-2">
+        <span className="text-yellow-300 hover:cursor-pointer hover:text-yellow-600 mx-2">
           Privacy Policy
         </span>
         {/* </NavLink> */}
@@ -26,7 +26,8 @@ function Footer() {
         </div>
         Copyright © 2024{" "}
         <span className="font-bold ">
-          <span className="text-sky-500">Retail</span>Vivo. All rights reserved.
+          Retail<span className="text-yellow-300">Vivo</span>. All rights
+          reserved.
         </span>{" "}
         {/* <div className="flex justify-center pt-2">
           <div className="w-8 h-8 mx-2 hover:cursor-pointer">
