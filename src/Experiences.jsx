@@ -1,8 +1,7 @@
 function Experiences() {
   return (
-    <div className="bg-gray-100 rounded-xl">
+    <div className="rounded-xl">
       <div className="m-12">
-        <div className="text-center text-2xl mb-8 font-bold">Experiences</div>
         <div>
           Boost customer satisfaction with intuitive, easy-to-use tools that
           simplify the engagement process. RetailVivo ensures that every
