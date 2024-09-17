@@ -32,7 +32,7 @@ function Industries() {
           className="w-1/2 sm:w-full max-w-sm mb-12"
         >
           <CarouselContent>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100 ">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100 ">
               <span className="text-sm sm:text-xl font-bold ">
                 Fashion Retail
               </span>
@@ -44,7 +44,7 @@ function Industries() {
                 experiences.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Grocery Retail
               </span>
@@ -55,7 +55,7 @@ function Industries() {
                 customers with interactive polls to drive sales and loyalty.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Beauty & Personal Care
               </span>
@@ -66,7 +66,7 @@ function Industries() {
                 quizzes. Increase engagement with exclusive gamified campaigns.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Electronics Retail
               </span>
@@ -77,7 +77,7 @@ function Industries() {
                 Use quizzes to improve product recommendations and boost sales.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Home & Furniture
               </span>
@@ -88,7 +88,7 @@ function Industries() {
                 Strengthen loyalty with gamified rewards for surveys and polls.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Pharmacy & Health Retail
               </span>
@@ -100,7 +100,7 @@ function Industries() {
                 visits.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Pet Supplies Retail
               </span>
@@ -111,7 +111,7 @@ function Industries() {
                 Offer gamified loyalty programs to encourage repeat purchases.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">Bookstores</span>
               <br />
               <br />
@@ -120,7 +120,7 @@ function Industries() {
                 frequent shoppers with gamified promotions.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">Toy Stores</span>
               <br />
               <br />
@@ -129,7 +129,7 @@ function Industries() {
                 with fun, gamified promotions and rewards.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Home Improvement & DIY
               </span>
@@ -140,7 +140,7 @@ function Industries() {
                 gamified incentives for DIY challenges.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2 rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2 rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Wine & Spirits Retail
               </span>
@@ -151,7 +151,7 @@ function Industries() {
                 customers with gamified promotions.
               </p>
             </CarouselItem>
-            <CarouselItem className="text-center basis-1/2 p-4 m-4 border-2  rounded-xl bg-gray-100">
+            <CarouselItem className="text-center basis-2/3 p-4 m-4 border-2  rounded-xl bg-gray-100">
               <span className="text-sm sm:text-xl font-bold">
                 Online Marketplaces
               </span>
