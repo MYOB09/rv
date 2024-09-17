@@ -49,7 +49,6 @@ function HomePage() {
           The best experience for the best value
         </p>
       </div>
-      <Features />
       <Experiences />
       <Industries />
       <CaseStudies />
@@ -72,9 +71,7 @@ function HomePage() {
             </div>
           </div>
         </div>
-        <AboutUs />
       </div>
-      <Pricing />
       <Footer />
     </>
   );
